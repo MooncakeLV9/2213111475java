@@ -1,4 +1,4 @@
 Student id : 2213111475
 Name : Pannatat Wongchanyakun
 AKA : MooncakeLV9
-Classdetail :  Lab Sheet 3 : Control Statement & Confirm Dialog
+Classdetail :  Lab Sheet 4 : String Methods and Defined Methodสอบ
